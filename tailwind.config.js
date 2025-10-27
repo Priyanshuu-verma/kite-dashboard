@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
@@ -6,16 +5,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'kite': {
-          blue: '#387ed1',
-          'dark-blue': '#1f4e8c',
-          green: '#00b386',
-          red: '#ff4d4d',
-          bg: '#f5f5f5'
-        }
+        'kite-blue': '#387ed1',
+        'kite-dark-blue': '#1f4e8c',
+        'kite-green': '#00b386',
+        'kite-red': '#ff4d4d',
       },
-      fontFamily: {
-        'sans': ['Inter', 'system-ui', 'sans-serif'],
+      screens: {
+        'xs': '475px',
+        '3xl': '1600px',
       },
     },
   },
