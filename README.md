@@ -39,6 +39,15 @@ Conditional rendering based on screen size
 
 Efficient state management for expanded rows
 
+
+7. Screenshot
+   
+<img width="1344" height="688" alt="Screenshot 2025-10-28 110142" src="https://github.com/user-attachments/assets/e563098a-df13-4a90-8933-8449127298d3" />
+<img width="1340" height="687" alt="Screenshot 2025-10-28 110208" src="https://github.com/user-attachments/assets/6cfdfaa6-efe1-4248-992a-51032ea58553" />
+<img width="1338" height="685" alt="Screenshot 2025-10-28 110220" src="https://github.com/user-attachments/assets/c2e819af-1a55-4ea9-8227-513126163bc4" />
+<img width="1342" height="688" alt="Screenshot 2025-10-28 110243" src="https://github.com/user-attachments/assets/db660fcb-3e6c-4856-8800-267ef0ebe241" />
+
+
 Clean event listener cleanup
 
 The component now works perfectly on all devices:
